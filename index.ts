@@ -1,6 +1,6 @@
 
-import { MiddlewareHandlerContext } from "$fresh/server.ts";
-import { createReporter } from "$g_a/mod.ts";
+import { MiddlewareHandlerContext } from "https://deno.land/x/fresh@1.1.2/server.ts";
+import { createReporter } from "https://deno.land/x/g_a@0.1.2/mod.ts";
 
 const ga = createReporter();
 

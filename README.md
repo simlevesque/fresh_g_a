@@ -12,7 +12,7 @@ Forked from [fresh_ga](https://deno.land/x/fresh_ga), a client side data collect
 // in your import_map.json
 {
   "imports": {
-    "$fresh_g_a/": "https://deno.land/x/fresh_g_a@0.1.1/"
+    "$fresh_g_a/": "https://deno.land/x/fresh_g_a@0.1.2/"
   }
 }
 ```
