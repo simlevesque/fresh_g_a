@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "$fresh/": "https://deno.land/x/fresh@1.1.2/",
+    "$g_a/": "https://deno.land/x/g_a@0.1.2/"
+  }
+}
